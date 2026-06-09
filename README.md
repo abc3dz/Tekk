@@ -1,19 +1,19 @@
-# tekkk game 
+# tekk game 
 ## Godot3.5.3
 
 2D<br>
 Clicking a floating cartoon head image.<br>
-Dragging a body image to a cartoon head image drop down.<br>
-Swiping a cartoon head collide a musical instrument move.
+Dragging a body image to a cartoon head image drop-down.<br>
+Swiping a cartoon head collides with a musical instrument move.
 
 3D<br>
-Cliking a floating cartoon hend model.<br>
-Dragging a body model to a musical model drop down.<br>
-Shootting a musical instument model fly to collide a cartoon head model.
+Clicking a floating cartoon head model.<br>
+Dragging a body model to a musical model drop-down.<br>
+Shooting a musical instrument model flying to collide with a cartoon head model.
 
-## This branch is published at https://abczezeze.itch.io/tekkk
+## This branch is published at https://abczezeze.itch.io/tekk
 
-## Casual game on Play store as well https://play.google.com/store/apps/details?id=com.abczezeze.tek
+## Casual game on Play Store as well https://play.google.com/store/apps/details?id=com.abczezeze.tek
 
 # sheenshot Main menu
 <img src="https://github.com/abczezeze/tekkk/blob/main/ss/MainManu.gif" width="320" height="240">
